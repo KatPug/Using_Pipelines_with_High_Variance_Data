@@ -1,2 +1,2 @@
 # Using Pipelines with High Variance Data
-By utilizing different preprocessing pipelines, I aim to effectively handle outliers, apply transformations to reduce skewness and scale the data
+This project focuses on predicting customer revenue using a machine learning model. The dataset comprises various customer-related numeric features with high variance and complexity. By utilizing different preprocessing pipelines, I aim to effectively handle outliers, apply transformations to reduce skewness and scale the data. I use Gradient Boosting Regressor for training and evaluates the performance of each pipeline to identify the best approach.
